@@ -13,7 +13,7 @@ public class Email {
   private String alternateEmail;
   private int passwordLength = 10;
   private String email;
-  private String companySuffix = "CNNcompany.com";
+  private String companySuffix = "BBC company.com";
 
   // constructor to initialize names
 public Email(String firstname,String lastname){
